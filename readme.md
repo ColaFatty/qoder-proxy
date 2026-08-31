@@ -2,7 +2,7 @@
 
 用你自己的 Qoder 账户额度，在本机开放一个 **OpenAI 兼容 API**，供 Claude Code / Cursor / 自写脚本等任何 OpenAI 客户端使用。**支持 Windows / macOS / Linux**。
 
-> **独立反代工具**：本工具与任何企业级 AI 工作台（亦清 / YeChara 等）**无关联**，纯通用个人工具。
+> **独立反代工具**：纯通用个人工具，与任何特定平台/产品无关。
 > Qoder 账户额度 = 你的 Qoder 订阅（含免费档）。
 
 ## 三步使用
